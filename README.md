@@ -10,6 +10,10 @@ Address: appname.herokuapp.com
 
 Port: 443 or 80
 
+Alter ID: 0
+
 Path: /
 
 Network: ws
+
+Transport: tls (Port 80 does not require tls to be enabled.)
