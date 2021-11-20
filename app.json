@@ -1,11 +1,11 @@
 {
-    "name": "xray-heroku",
-    "description": "deploy xray to heroku",
-    "keywords": ["xray"],
+    "name": "Consee",
+    "description": "consee",
+    "keywords": ["seecon"],
     "env": {
         "UUID": {
             "description": "xray UUID",
-            "value": "c95ef1d4-f3ac-4586-96e9-234a37dda068"        
+            "value": "88888888-8888-8888-8888-888888888888"        
         },
         "PROTOCOL": {
             "description": "xray protocol, vmess or vless",
